@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Electronics+%26+Computer+Science+Student;Backend+Architecture+Enthusiast;AI+System+Builder;Future+System+Engineer)
-# 👋 Hi, I'm Vedant Nikumbh
+<h1 align="center">Vedant Nikumbh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+systems+that+scale.;Think+in+architecture.;Code+with+intent." />
+</p>
+
+<p align="center">
+  Backend Systems • AI Tools • Electronics Integration
+</p>
+
+---
 
 🎓 B.Tech Electronics & Computer Science | Mumbai  
 ⚡ Systems Thinker | Full-Stack Developer | AI Builder  
@@ -171,7 +181,3 @@ Includes:
 - 🌐 Portfolio:
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+systems+that+scale.;Think+in+architecture.;Code+with+intent." />
-</p>
