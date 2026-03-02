@@ -153,13 +153,6 @@ Includes:
 
 ---
 
-## 📊 GitHub Stats
-
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 2026 Goals
 
@@ -173,10 +166,12 @@ Includes:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
-- 🌐 Portfolio: (if available)
+- 💼 LinkedIn:https://www.linkedin.com/in/vedant-nikumbh-27612a329/
+- 📧 Email:vedant15.nikumbh@gmail.com
+- 🌐 Portfolio:
 
 ---
 
-> "Build systems that scale. Think in architecture. Code with intent."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+systems+that+scale.;Think+in+architecture.;Code+with+intent." />
+</p>
