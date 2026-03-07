@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Electronics+%26+Computer+Science+Student;Backend+Architecture+Enthusiast;AI+System+Builder;Future+System+Engineer)
-<h1 align="center">Vedant Nikumbh</h1>
+<!--<h1 align="center">Vedant Nikumbh</h1>-->
 
 
 <p align="center">
